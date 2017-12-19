@@ -1,0 +1,25 @@
+baseurl = "https://example.com"
+languageCode = "zh-TW"
+defaultContentLanguage = "zh"
+title = "やらないか？"
+theme = "hugo-theme-dream"
+
+copyright = "Copyright (c) 2017, g1eny0ung; all rights reserved."
+
+# enableRobotsTXT = true
+
+# googleAnalytics = ""
+
+# disqusShortname = ""
+
+[params]
+  author = "阿部高和"
+  motto = "ウホッ！いい男．．．"
+  # description = ""
+   avatar = "/img/0111.jpg"
+  
+   email = "GGininder@gmail.com"
+  # github = ""
+  # linkedin = ""
+  # codepen = ""
+  # stackoverflow = ""
